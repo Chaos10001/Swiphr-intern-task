@@ -1,0 +1,126 @@
+.hero-2{
+  justify-content: space-between;
+}
+.hero-2 button { 
+  color: #ffffff;
+  width: 1200px;
+  height: 47px;
+  background: #5ecb75;
+  border-radius: 8px;
+  border: none;
+}
+.hero button {
+  border: none;
+  width: 6rem;
+  height: 1.8rem;
+}
+.hero h1 {
+  width: 17rem;
+  height: 38px;
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #272727;
+}
+.hero-body {
+  margin-top: 3rem;
+}
+.hero-body h2 {
+  height: 19px;
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #272727;
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.content1 {
+  height: 8rem;
+  width: 16rem;
+}
+.content1 h1 {
+  width: 58px;
+  height: 19px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 19px;
+  /* identical to box height */
+
+  color: #5ecb75;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.content1 img {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+.content1 p {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #7d7d7d;
+}
+.hero2-content h3 {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #272727;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.hero2-content p {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  /* margin-bottom: 9rem; */
+  text-align: center;
+
+  color: #7d7d7d;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+.hero2-content {
+  box-sizing: border-box;
+  /* width: 1136px; */
+  height: 255px;
+  background: #ffffff;
+  border: 1px solid #e4e4e4;
+  border-radius: 8px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+/* .hero2-content img{
+  margin-top: 4rem;
+} */
+.hero3 h2 {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #272727;
+}

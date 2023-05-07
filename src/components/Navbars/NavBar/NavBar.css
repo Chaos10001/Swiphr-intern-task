@@ -1,0 +1,20 @@
+.color-hover:hover {
+  color: #15159e !important;
+  transition: 1s all ease-in;
+  margin-left: 3rem;
+}
+.name h1{
+  width: 70px;
+height: 19px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.01em;
+color: #272727;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
